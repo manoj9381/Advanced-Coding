@@ -160,13 +160,13 @@ case 3:y=pop_stack1();
 if(y=="error")
 printf("stack is empty cannot pop");
 else
-printf("popped element is %d",y);
+printf("popped element is %s",y);
 break;
 case 4:y=pop_stack2();
 if(y=="error")
 printf("stack is empty cannot pop");
 else
-printf("popped element is %d",y);
+printf("popped element is %s",y);
 break;
 case 5:print_stack1();
 break;
