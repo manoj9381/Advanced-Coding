@@ -44,6 +44,6 @@
 17.Reverse of a Queue
 
 ### 8/9/2020
-18.
+18.Queue implementation using single stack
 
-19.
+19.Reverse of Queue using stack
