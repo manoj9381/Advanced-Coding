@@ -37,3 +37,13 @@
 14.Sack using linked list.
 
 15.Queue using linked list.
+
+### 5/09/2020
+16.Sorting of linked list
+
+17.Reverse of a Queue
+
+### 8/9/2020
+18.
+
+19.
