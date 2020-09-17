@@ -48,5 +48,14 @@
 
 19.Reverse of Queue using stack
 
+
+### 12/09/2020
+20.Removing dupicates in the linked list
+
+21.Finding the middle element in the linked list.
+
 ### 14/09/2020
-20.Circular linkedlist
+22.Circular linkedlist
+
+###  15/09/2020
+23.Doubly linked list
