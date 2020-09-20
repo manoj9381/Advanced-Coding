@@ -46,7 +46,7 @@
 ### 8/9/2020
 18.Queue implementation using single stack
 
-19.Reverse of Queue using stack
+19.linked list based implementation of stacks and queues.
 
 
 ### 12/09/2020
