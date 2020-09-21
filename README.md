@@ -59,3 +59,10 @@
 
 ###  15/09/2020
 23.Doubly linked list
+
+### Assignment 1
+1.Min and max of single linked list
+
+2.Even nodes in doubly linked list
+
+3.Prime nodes in doubly linked list
