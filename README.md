@@ -65,4 +65,6 @@
 
 2.Even nodes in doubly linked list
 
-3. Removing Prime nodes in single linked list
+3.Removing Prime nodes in single linked list
+
+4.Double circular linkedlist
