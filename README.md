@@ -68,3 +68,17 @@
 3.Removing Prime nodes in single linked list
 
 4.Double circular linkedlist
+
+### 21/09/2020
+
+24.To reverse the linked list
+
+25.To swap the two nodes in the linked list.
+
+### 22/09/2020
+
+26.Sparse matrix.
+
+### 24/09/2020
+
+27.4 kinds of functions.
