@@ -82,3 +82,9 @@
 ### 24/09/2020
 
 27.4 kinds of functions.
+
+### 26/09/2020
+
+31.unique rows in matrix
+
+32.diagonal matrix
