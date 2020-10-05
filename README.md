@@ -89,8 +89,14 @@
 
 32.diagonal matrix
 
+### 29/09/2020
+
+33.Spiral matrix
+
+34.Matrix in Sample form
+
 ### 3/10/2020
 
-33.Matrix clockwise rotation (90)
+35.Matrix clockwise rotation (90)
 
-34.Matrix anti-clockwise rotation(90)
+36.Matrix anti-clockwise rotation(90)
