@@ -88,3 +88,9 @@
 31.unique rows in matrix
 
 32.diagonal matrix
+
+### 3/10/2020
+
+33.Matrix clockwise rotation (90)
+
+34.Matrix anti-clockwise rotation(90)
