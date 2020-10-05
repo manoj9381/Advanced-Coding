@@ -93,7 +93,7 @@
 
 33.Spiral matrix
 
-34.Matrix in Sample form
+34.Matrix in Spiral form
 
 ### 3/10/2020
 
